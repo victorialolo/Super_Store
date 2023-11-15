@@ -13,6 +13,7 @@ Therefore, i created 4 new columns all extracted from the data column as my cale
 -  The column for quarter was also created.
 ![]()
 
+Do interact with the dashboard ![here](https://app.powerbi.com/view?r=eyJrIjoiOWM2NzY0ZDMtZWVmNy00M2ZjLTlkNjAtNWE4ZWE2Yzc3N2JmIiwidCI6IjUwODUxMjk2LTliZDEtNGM1Yi05MDllLWY2M2U0OWVmZWEyNSJ9)
 
 ![](Customer Overview.png)
 
