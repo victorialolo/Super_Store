@@ -8,7 +8,18 @@ Therefore, i created 4 new columns all extracted from the data column as my cale
 
 -  The first column contained the date this was marked as 'date' format(ie dd/mm/yyy).
 -  The second column contains the Month column.
--  Month No wa extracted help with the sorting month hierarchy.
+-  Month No was extracted help with the sorting month hierarchy.
 -  The next is the year column
 -  The column for quarter was also created.
-![]() 
+![]()
+
+
+![](Customer Overview.png)
+
+Features:
+-  Hamburger is a button to display the state and month filter while the red coloured "X" button closes the filter.
+-  The five tabs are buttons with hovering effect and each navigate to the page with similar name.
+
+## Analysis
+
+## Customer History
