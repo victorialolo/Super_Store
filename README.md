@@ -34,9 +34,9 @@ Data was then locally extracted from Excel Workbook into Power BI for transforma
 
 Data cleaning and transformation was carried out using Power Query and it was done per table. After scrutinizing all columns, they were found to be valid and devoid of empty cells and errors. Below is a preview of the tables:
 
-        Products Table                   Customers Table
+        Products Table      |             Customers Table
 :--------------------------:|:----------------------------------:
-![](ProductsTable.png)  :|:![](CustomersTable.png)
+![](ProductsTable.png)      |![](CustomersTable.png)
 
 
          Locations Table                  Sales Reps
@@ -44,6 +44,7 @@ Data cleaning and transformation was carried out using Power Query and it was do
 
 Sales Table
 ![]()
+
 
 For the Customers and Products tables, first rows were not headers and so resolved that by applying the "Use First row as header" action. column datatypes were validated appropriately.
 
