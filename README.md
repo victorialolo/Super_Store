@@ -47,7 +47,7 @@ Orders Table
 ![](OrderTable.png)
 
 
-For the Customers and Products tables, first rows were not headers and so resolved that by applying the "Use First row as header" action. column datatypes were validated appropriately.
+For the tables, first rows were not headers and so resolved that by applying the "Use First row as header" action. column datatypes were validated appropriately and unnecessary columns were removed
 
 ## Data Modelling
 
