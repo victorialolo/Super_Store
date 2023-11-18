@@ -87,4 +87,5 @@ Features:
 
 ## Customer History
 
+There are 763 customers and November had the highest monthly order made. 
 
