@@ -36,11 +36,12 @@ Data cleaning and transformation was carried out using Power Query and it was do
 
         Products Table      |             Customers Table
 :--------------------------:|:----------------------------------:
-![](ProductsTable.png)      |![](CustomersTable.png)
+![](ProductTable.png)       | ![](CustomerTable.png)
 
 
-         Locations Table                  Sales Reps
+         Locations Table    |              Sales Reps
 :--------------------------:|:-----------------------------------:
+![](Locationtable.png)      | ![](SalesTable.png)
 
 Sales Table
 ![]()
