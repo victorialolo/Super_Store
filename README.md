@@ -36,6 +36,8 @@ Data cleaning and transformation was carried out using Power Query and it was do
 
         Products Table                   Customers Table
 :--------------------------:|:----------------------------------:
+![](ProductsTable.png)  :|:![](CustomersTable.png)
+
 
          Locations Table                  Sales Reps
 :--------------------------:|:-----------------------------------:
