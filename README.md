@@ -1,4 +1,4 @@
-9# Super_Store
+# Super_Store
 
 ![]()
 
@@ -69,11 +69,11 @@ Therefore, i created 4 new columns all extracted from the Order data column as m
 -  Month No was extracted to help with the sorting month hierarchy.
 -  The next is the year column
 -  The column for quarter was also created.
-![]()
+![](CalendarSS.png)
 
 Analysis was done using simple visuals since the table have been perfectly modelled together
 
-![]()
+![](ModelSS.png)
 
 Do interact with the dashboard ![here](https://app.powerbi.com/view?r=eyJrIjoiOWM2NzY0ZDMtZWVmNy00M2ZjLTlkNjAtNWE4ZWE2Yzc3N2JmIiwidCI6IjUwODUxMjk2LTliZDEtNGM1Yi05MDllLWY2M2U0OWVmZWEyNSJ9)
 
