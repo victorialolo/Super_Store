@@ -35,10 +35,10 @@ Data was then locally extracted from Excel Workbook into Power BI for transforma
 Data cleaning and transformation was carried out using Power Query and it was done per table. After scrutinizing all columns, they were found to be valid and devoid of empty cells and errors. Below is a preview of the tables:
 
         Products Table                   Customers Table
-|:--------------------------:|:----------------------------------:|
+:--------------------------:|:----------------------------------:
 
          Locations Table                  Sales Reps
-|:--------------------------:|:-----------------------------------:|
+:--------------------------:|:-----------------------------------:
 
 Sales Table
 ![]()
