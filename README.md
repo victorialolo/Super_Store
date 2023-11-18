@@ -119,12 +119,10 @@ Here, we could discover the following insights.
 - **Consumer segment** had the highest revenue of **$1.16M**.
 - **2017** had the highest quantity of products sold
 
-Overall Sales Insights:
-Customer Base: With 763 customers, consider targeted marketing strategies to retain existing customers and attract new ones.
-
-Monthly Order Peak: November stands out with the highest monthly orders at 1471. Leverage this insight to plan promotions or events during this peak period.
-
-Top Sales Representative: Recognize and reward Sean Miller for achieving the highest revenue of $25,043. Acknowledge and share best practices.
+## Recommendation
+Consider targeted marketing strategies to retain existing customers and attract new ones.
+Plan promotions or events during this peak period.
+Recognize and reward Sean Miller for achieving the highest revenue of $25,043. Acknowledge and share best practices.
 
 Order Frequency: William Brown's 37 orders showcase a high level of engagement. Explore strategies to encourage such loyalty from other customers.
 
@@ -145,7 +143,7 @@ Regional Analysis: West region's highest revenue ($725,458) and profit ($108,418
 Sales Team:
 Team Performance: Acknowledge the Organic team's outstanding 6400 orders. Share best practices across teams to enhance overall performance.
 
-Monthly Trends: Understand the factors contributing to November's peak sales ($352,461.07) and strategize to maintain or exceed these levels in subsequent months.
+Monthly Trends: Understand the factors contributing to November's peak sales and strategize to maintain or exceed these levels in subsequent months.
 
 Segment Analysis: Consumer segment's revenue dominance ($1.16M) warrants a deep dive into consumer preferences. Tailor marketing to maximize returns.
 
@@ -159,6 +157,7 @@ Discount Strategy: Evaluate the impact of the average discount of 15.62%. Ensure
 Segment Focus: Given that the Consumer segment generated the highest revenue, allocate resources and marketing efforts accordingly.
 
 Yearly Analysis: Recognize the significance of 2017 in terms of quantity sold. Investigate the contributing factors and strategize for future success.
+
 Features:
 -  Hamburger is a button to display the state and month filter while the red coloured "X" button closes the filter.
 -  The five tabs are buttons with hovering effect and each navigate to the page with similar name.
