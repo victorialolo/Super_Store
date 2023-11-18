@@ -77,7 +77,7 @@ Analysis was done using simple visuals since the table have been perfectly model
 
 Do interact with the dashboard ![here](https://app.powerbi.com/view?r=eyJrIjoiOWM2NzY0ZDMtZWVmNy00M2ZjLTlkNjAtNWE4ZWE2Yzc3N2JmIiwidCI6IjUwODUxMjk2LTliZDEtNGM1Yi05MDllLWY2M2U0OWVmZWEyNSJ9)
 
-![](Customer Overview.png)
+![](CustomerSP.png)
 
 Features:
 -  Hamburger is a button to display the state and month filter while the red coloured "X" button closes the filter.
