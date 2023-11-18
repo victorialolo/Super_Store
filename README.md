@@ -89,3 +89,16 @@ Features:
 
 There are 763 customers and November had the highest monthly order made. 
 
+## Products
+
+![](ProductSS.png)
+
+## Locations
+
+![](LocationSS.png)
+
+## Sales Team
+![](SalesteamSS.png)
+
+## Order Sales
+![](SalesSS.png)
