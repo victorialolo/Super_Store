@@ -1,4 +1,4 @@
-# Super_Store
+9# Super_Store
 
 ![]()
 
@@ -39,12 +39,12 @@ Data cleaning and transformation was carried out using Power Query and it was do
 ![](ProductTable.png)       | ![](CustomerTable.png)
 
 
-         Locations Table    |              Sales Reps
+         Locations Table    |              Sales Team
 :--------------------------:|:-----------------------------------:
-![](Locationtable.png)      | ![](SalesTable.png)
+![](Locationtable.png)      | ![](SalesTeam.png)
 
-Sales Table
-![]()
+Orders Table
+![](OrderTable.png)
 
 
 For the Customers and Products tables, first rows were not headers and so resolved that by applying the "Use First row as header" action. column datatypes were validated appropriately.
