@@ -1,6 +1,6 @@
 # Super_Store
 
-![](SS.jpe)
+![](SS.jpg)
 
 ## Introduction
 
@@ -90,7 +90,7 @@ Here, we could discover the following insights.
 ## Products
 
 - There are **1894** type of products.
-- **Canon ImageCLASS 2200 Advanced copier** had the highest revenue of $61,600.
+- **Canon ImageCLASS 2200 Advanced copier** had the highest revenue of **$61,600**.
 - **Phones** has the no **1** ranking in the sub-category with a total revenue of **$330,007**.
   
 ![](ProductSS.png)
@@ -104,7 +104,7 @@ Here, we could discover the following insights.
 
 ## Sales Team
 
-- There are 5 manager, 5 teams and 14 sales rep.
+- There are **5** manager, **5** teams and **14** sales rep.
 - **Organic** which is also walk in customers has the highest number of **6400** order made followed by **Britanny Bold of 1,111**.
 - **November** had the highest monthly sales of **$352,461.07** and **February** had the least sales.
 - Oranic made the highest revenue of **$1,440,483** and highest profit of **$183,415**.
@@ -112,6 +112,7 @@ Here, we could discover the following insights.
 ![](SalesteamSS.png)
 
 ## Order Sales
+
 ![](SalesSS.png)
 
 - The total revenue is **$2M**, profit is **$286k**.
@@ -120,43 +121,32 @@ Here, we could discover the following insights.
 - **2017** had the highest quantity of products sold
 
 ## Recommendation
-Consider targeted marketing strategies to retain existing customers and attract new ones.
-Plan promotions or events during this peak period.
-Recognize and reward Sean Miller for achieving the highest revenue of $25,043. Acknowledge and share best practices.
-
-Order Frequency: William Brown's 37 orders showcase a high level of engagement. Explore strategies to encourage such loyalty from other customers.
+- Consider targeted marketing strategies to retain existing customers and attract new ones.
+- Plan promotions or events during this peak period.
+- Recognize and reward Sean Miller for achieving the highest revenue of $25,043. Acknowledge and share best practices.
+- Order Frequency: William Brown's 37 orders showcase a high level of engagement. Explore strategies to encourage such loyalty from other customers.
 
 Products:
-Product Variety: With 1894 product types, analyze the top-performing ones and consider optimizing the product mix for better results.
-
-Top Revenue Product: Canon ImageCLASS 2200 Advanced Copier is a top performer. Ensure its continued promotion and consider bundling strategies.
-
-Category Ranking: Phones lead in sub-category revenue. Explore marketing opportunities or complementary products to maximize revenue.
+- Product Variety: With 1894 product types, analyze the top-performing ones and consider optimizing the product mix for better results.
+- Top Revenue Product: Canon ImageCLASS 2200 Advanced Copier is a top performer. Ensure its continued promotion and consider bundling strategies.
+- Category Ranking: Phones lead in sub-category revenue. Explore marketing opportunities or complementary products to maximize revenue.
 
 Locations:
-Customer Distribution: Assess the effectiveness of your coverage across 632 customer locations in 49 states and 531 cities. Identify any gaps for potential expansion.
-
-Top City Revenue: New York City's $256,368.16 revenue suggests market strength. Consider targeted campaigns in high-performing cities.
-
-Regional Analysis: West region's highest revenue ($725,458) and profit ($108,418) indicate a strong market. Investigate replicating successful strategies in other regions.
+- Customer Distribution: Assess the effectiveness of your coverage across 632 customer locations in 49 states and 531 cities. Identify any gaps for potential expansion.
+- Top City Revenue: New York City's $256,368.16 revenue suggests market strength. Consider targeted campaigns in high-performing cities.
+- Regional Analysis: West region's highest revenue ($725,458) and profit ($108,418) indicate a strong market. Investigate replicating successful strategies in other regions.
 
 Sales Team:
-Team Performance: Acknowledge the Organic team's outstanding 6400 orders. Share best practices across teams to enhance overall performance.
-
-Monthly Trends: Understand the factors contributing to November's peak sales and strategize to maintain or exceed these levels in subsequent months.
-
-Segment Analysis: Consumer segment's revenue dominance ($1.16M) warrants a deep dive into consumer preferences. Tailor marketing to maximize returns.
+- Team Performance: Acknowledge the Organic team's outstanding 6400 orders. Share best practices across teams to enhance overall performance.
+- Monthly Trends: Understand the factors contributing to November's peak sales and strategize to maintain or exceed these levels in subsequent months.
+- Segment Analysis: Consumer segment's revenue dominance ($1.16M) warrants a deep dive into consumer preferences. Tailor marketing to maximize returns.
 
 Order Sales Overview:
-Overall Performance: A total revenue of $2M and profit of $286k signals a healthy business. Continue to monitor and optimize operational efficiency.
-
-Customer Spending: The average spend of $229.9 is a key metric. Consider loyalty programs or incentives to increase per-customer spending.
-
-Discount Strategy: Evaluate the impact of the average discount of 15.62%. Ensure discounts align with sales goals and profitability targets.
-
-Segment Focus: Given that the Consumer segment generated the highest revenue, allocate resources and marketing efforts accordingly.
-
-Yearly Analysis: Recognize the significance of 2017 in terms of quantity sold. Investigate the contributing factors and strategize for future success.
+- Overall Performance: A total revenue of $2M and profit of $286k signals a healthy business. Continue to monitor and optimize operational efficiency.
+- Customer Spending: The average spend of $229.9 is a key metric. Consider loyalty programs or incentives to increase per-customer spending.
+- Discount Strategy: Evaluate the impact of the average discount of 15.62%. Ensure discounts align with sales goals and profitability targets.
+- Segment Focus: Given that the Consumer segment generated the highest revenue, allocate resources and marketing efforts accordingly.
+- Yearly Analysis: Recognize the significance of 2017 in terms of quantity sold. Investigate the contributing factors and strategize for future success.
 
 Features:
 -  Hamburger is a button to display the state and month filter while the red coloured "X" button closes the filter.
