@@ -1,6 +1,6 @@
 # Super_Store
 
-![]()
+![](SS.jpe)
 
 ## Introduction
 
