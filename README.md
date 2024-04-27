@@ -152,7 +152,6 @@ Features:
 -  Hamburger is a button to display the state and month filter while the red coloured "X" button closes the filter.
 -  The five tabs are buttons with hovering effect and each navigate to the page with similar name.
 
-Do interact with the dashboard ![here](https://app.powerbi.com/view?r=eyJrIjoiOWM2NzY0ZDMtZWVmNy00M2ZjLTlkNjAtNWE4ZWE2Yzc3N2JmIiwidCI6IjUwODUxMjk2LTliZDEtNGM1Yi05MDllLWY2M2U0OWVmZWEyNSJ9)
 You can interactive with the report [here](https://app.powerbi.com/view?r=eyJrIjoiOWM2NzY0ZDMtZWVmNy00M2ZjLTlkNjAtNWE4ZWE2Yzc3N2JmIiwidCI6IjUwODUxMjk2LTliZDEtNGM1Yi05MDllLWY2M2U0OWVmZWEyNSJ9)
 
 
