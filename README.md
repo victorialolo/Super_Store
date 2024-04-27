@@ -8,7 +8,7 @@ This project is to display my data modelling/dax skills acquired after i conclud
 
 ## Problem Statement
 
-An international company in the United States wishes to build an headquarter office in the location where the highest sales were made. At the opening event, the takeholders wish to award the customer with the highest sales and also to appoint the best salesrep(i.e the salesrep that has made the highest sales) as a new sales manager of the new headquarter. The stakeholders have hereby entrusted that i carry out analysis and report. 
+An international company in the United States wishes to build an headquarter office in the location where the highest sales were made. At the opening event, the stakeholders wish to award the customer with the highest sales and also to appoint the best salesrep(i.e the salesrep that has made the highest sales) as a new sales manager of the new headquarter. The stakeholders have hereby entrusted that i carry out analysis and report. 
 
 After thinking critically, some questions need answers:
 
